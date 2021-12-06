@@ -35,7 +35,7 @@ Through our thorough analysis of the dataset, we came to many different conclusi
 
 ### **Chest pain severity:**
 
-![TAGraph.png](Predicting-Heart-Failure/ASYGraph.png?raw=true "TAGraph")
+![TAGraph](https://user-images.githubusercontent.com/90229634/144931288-f3c20767-7ae7-4006-81d5-8d781fd134f3.png)
 
 The above graph shows five attributes that can be determined to be below average, average, or above average among the patients. In this case, we are exploring the percentage of patients experiencing typical angina chest pain, and the attributes with above average levels. As we can see, almost 80% of patients with TA have a higher than normal resting blood pressure level. Following that, cholesterol levels appear high in almost 50% of TA patients, and almost half have diagnosed heart disease.
 
