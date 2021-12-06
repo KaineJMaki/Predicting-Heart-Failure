@@ -103,7 +103,7 @@ Using the information from graph 2, we can confirm that the large percent of Asy
 
 ## **Conclusion:**
 ### **Reflection:**
-*To-Do: List things you learned as you worked on the project*
+Throughout our data analysis, we learned a lot about cardiovascular health and issues. The biggest lesson we learned was that many heart related issues can go unnoticed, and that it's extremely important to get regular checkups to ensure you are in good health. As studied with asymptomatic patients, you can still be at great risk even if you don't feel like it.
 
 ### **Refinement:**
 
