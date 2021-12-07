@@ -92,8 +92,23 @@ From the graph above, we can see that patients with heart disease have a higher 
 
 This graph shows a much higher proportion of people with heart disease having either asymptomatic chest pain or exercise induced angina. This logically makes sense, as it would explain why so many people don't find out about their heart disease until too late. The high proportion of exercised induced angina also makes sense when you factor in that exercise (especially cardio) puts your heart into situations of extreme stress, which is what is most likely causing the angina.
 
+### **What is the correlation between resting blood pressure and resting ECG results?**
 
-## **Which single attribute can be observed as a leading factor towards heart disease?**
+![image](https://user-images.githubusercontent.com/90279551/144968716-ad6420b4-0df3-4285-a31c-c2528d9b0c2d.png)
+![image](https://user-images.githubusercontent.com/90279551/144968732-98bb7813-61d5-4cf1-b1b5-56e45a3c433e.png)
+![image](https://user-images.githubusercontent.com/90279551/144968748-49b4daa2-d905-4f44-b3e1-69224c8831f1.png)
+
+![image](https://user-images.githubusercontent.com/90279551/144968772-db6411dc-6928-44f7-954d-a4caa052a63a.png)
+![image](https://user-images.githubusercontent.com/90279551/144968795-78ffb91c-756c-4747-8ec6-9d59548088ee.png)
+
+![image](https://user-images.githubusercontent.com/90279551/144968813-a707cdfa-5822-40e6-8232-8adcb52d5c75.png)
+![image](https://user-images.githubusercontent.com/90279551/144968829-9075c7f7-96b3-4436-a252-8a38dee53979.png)
+![image](https://user-images.githubusercontent.com/90279551/144968851-441e4456-f437-4798-a184-2f2cbe5fc541.png)
+![image](https://user-images.githubusercontent.com/90279551/144968865-ab169aa3-505f-4885-8623-d7adaeb098c8.png)
+
+
+
+### **Which single attribute can be observed as a leading factor towards heart disease?**
 ![Screenshot (39)](https://user-images.githubusercontent.com/90279551/144966110-64f930f6-a980-49a6-8996-4835d3e5b30b.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/90279551/144966133-2e4caed4-86f1-44e4-af45-d1af4f6c36f0.png)
 
