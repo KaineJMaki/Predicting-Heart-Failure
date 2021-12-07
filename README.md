@@ -65,6 +65,44 @@ The above graph displays the percentage of each "normal" attribute among patient
 
 Next, we found all of the patients who displayed almost all their health readings to be completely normal, and still had a diagnosed heart disease. Only three patients tested with these results, and thus can be considered outliers in our study. There may be other factors at play among these patients, whether it be something hereditary or beyond our understanding.
 
+## **Which group of patient(both age and sex) are at the greatest risk?**
+![Screenshot (31)](https://user-images.githubusercontent.com/90279551/144963400-f4014644-f20e-4f74-86b1-64e0a8ee5ebd.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/90279551/144963415-f21578f5-b169-4f4d-8f53-7adc4a329751.png)
+
+From this first age bracket we can see that the number of young adult males with heart disease is more than double that of young adult females. A possibly correlated factor is the percent of young adult males with unhealthily high levels of cholesterol, which again is more than double the young adult females percentage. The only attribute in which the females have a higher proportion is high resting blood pressure, where it is greater than the male proportion by about a factor of 1/3.
+
+![Screenshot (33)](https://user-images.githubusercontent.com/90279551/144963940-58c14d42-021e-4180-a34b-48a3b3e8cf1a.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/90279551/144963942-21fcaf8b-5324-4362-8b77-56d54575c7f2.png)
+
+From the second age bracket, we see a similar pattern to the first in which the male percentages are all (or almost all) greater than their female counterparts. However the sex differences are much smaller within the middle aged bracket. What's interesting is that within this age range, the proportion of males with heart disease is approximately four times larger than the proportion of females with heart disease.
+
+![Screenshot (35)](https://user-images.githubusercontent.com/90279551/144964242-87d49398-17a8-4379-8b29-f13210dd93a9.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/90279551/144964245-24b87b2f-99c5-4244-9dde-062e63a512d9.png)
+
+From the final age bracket we can see that all around, the percentage of dangerous attributes has skyrocketed for both males and females. Again we see the males have a massively larger proprotion of people with heart disease, although for this age range, the females have a higher proportion of both high resting blood pressure as well as high cholesterol.
+
+Overall, the senior males (aged 50+) are at the highest risk for heart failure. They have the highest proportion of heart disease, as well as the largest proportion of excercise induced angina. While they are behind the senior women in high cholesterol and high blood pressure, it is not by much which puts them at number 1 for heart failure risk factor.
+
+## **Which attributes appear more frequently in people with heart disease?**
+![Screenshot (37)](https://user-images.githubusercontent.com/90279551/144964823-1700b8b4-ab42-4bd8-8321-7cd2b9bebdb9.png)
+
+From the graph above, we can see that patients with heart disease have a higher proportion of having high cholesterol, high resting blood pressure, high fasting blood sugar level, and they are more likely to recieve ST or LVH results on their electrocardiogram.
+
+![Screenshot (38)](https://user-images.githubusercontent.com/90279551/144965089-0b675185-0b65-4f1c-af9d-59552d76de12.png)
+
+This graph shows a much higher proportion of people with heart disease having either asymptomatic chest pain or exercise induced angina. This logically makes sense, as it would explain why so many peoplw don't find out about their heart disease until too late. The high proportion of exercised induced angina also makes sense when you factor in that exercise (especially cardio) puts your heart into situations of extreme stress, which is what is most likely causing the angina.
+
+## **Which single attribute can be observed as a leading factor towards heart disease?**
+![Screenshot (39)](https://user-images.githubusercontent.com/90279551/144966110-64f930f6-a980-49a6-8996-4835d3e5b30b.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/90279551/144966133-2e4caed4-86f1-44e4-af45-d1af4f6c36f0.png)
+
+From these two graphs we can see that generally all of the dangerous attributes are slightly higher in people with heart disease. This makes it a problem when trying to identify a single attribute that can mainly predict heart failure/disease, as there is not a large amount of differences between the various attributes proportions.
+
+![Screenshot (41)](https://user-images.githubusercontent.com/90279551/144966301-e262646e-1e96-401d-b221-63705c5621e6.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/90279551/144966306-1013bbcc-5e74-4c8f-8043-e24f040c7bdc.png)
+
+Here, we can see that both asymptomatic chest pain and exercise induced angina are found in a much larger proportion in people with heart disease. For obvious reasons, asympotomatic chest pain cannot be used as a leading factor for identifying heart disease, however exercise induced angina has a huge amount of contrast between the proportions of those with heart disease and those without. Due to it having such a large difference, it is a very accurate attribute to select as a leading factor in predicting heart disease. Logically speaking as well, exercised induced angina is most likely one of the earlier symptoms to show up, as it only occurs during moments of high stress to the heart, not all the time like some of the other (most-likely) later occuring attributes.
+
 ### **Do those without heart disease still have concerning attributes?**
 ![ConcernHD](https://user-images.githubusercontent.com/90229634/144931991-5595e8a4-2272-4aeb-b5cb-83086df3c7e3.png)
 
