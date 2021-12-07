@@ -90,7 +90,12 @@ From the graph above, we can see that patients with heart disease have a higher 
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/90279551/144965089-0b675185-0b65-4f1c-af9d-59552d76de12.png)
 
-This graph shows a much higher proportion of people with heart disease having either asymptomatic chest pain or exercise induced angina. This logically makes sense, as it would explain why so many peoplw don't find out about their heart disease until too late. The high proportion of exercised induced angina also makes sense when you factor in that exercise (especially cardio) puts your heart into situations of extreme stress, which is what is most likely causing the angina.
+This graph shows a much higher proportion of people with heart disease having either asymptomatic chest pain or exercise induced angina. This logically makes sense, as it would explain why so many people don't find out about their heart disease until too late. The high proportion of exercised induced angina also makes sense when you factor in that exercise (especially cardio) puts your heart into situations of extreme stress, which is what is most likely causing the angina.
+
+
+## **Which single attribute can be observed as a leading factor towards heart disease?**
+
+
 
 ## **Which single attribute can be observed as a leading factor towards heart disease?**
 ![Screenshot (39)](https://user-images.githubusercontent.com/90279551/144966110-64f930f6-a980-49a6-8996-4835d3e5b30b.png)
