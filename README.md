@@ -98,15 +98,29 @@ This graph shows a much higher proportion of people with heart disease having ei
 ![image](https://user-images.githubusercontent.com/90279551/144968732-98bb7813-61d5-4cf1-b1b5-56e45a3c433e.png)
 ![image](https://user-images.githubusercontent.com/90279551/144968748-49b4daa2-d905-4f44-b3e1-69224c8831f1.png)
 
+Observing the counts of ECG levels in total vs in non-heart disease patients vs in heart disease patients, we can see that the results are quite similar. A normal resting ECG is observed the most by a significant amount in all situations which tells us that the ECG level alone is not enough to indicate whether a patient has heart disease or not.
+
 ![image](https://user-images.githubusercontent.com/90279551/144968772-db6411dc-6928-44f7-954d-a4caa052a63a.png)
 ![image](https://user-images.githubusercontent.com/90279551/144968795-78ffb91c-756c-4747-8ec6-9d59548088ee.png)
+
+Given that a normal resting blood pressure is below 120, we can observe through the BP values in non-heart disease patients and in heart disease patients that there are no clear indicating factor that allows us to point towards heart disease from BP values alone.
+
+It is observable that more varying blood pressure values occure in heart disease patients, however this cannot help with determining heart disease in individual patients. A takeaway from these observations can be that if a patient's blood pressure is 160 or higher, it is advisable to see a doctor.
+
+Given the following intervals for blood pressure:
+
+from (https://www.drugwatch.com/health/cardiovascular-health/low-blood-pressure/)
+
+Low: 90 and below, Normal: 91 - 120, High: 131 - 140, Very High: 141+
+
+We will split our data based on these intervals and make observations based on the relationship between the interval and ECG level
 
 ![image](https://user-images.githubusercontent.com/90279551/144968813-a707cdfa-5822-40e6-8232-8adcb52d5c75.png)
 ![image](https://user-images.githubusercontent.com/90279551/144968829-9075c7f7-96b3-4436-a252-8a38dee53979.png)
 ![image](https://user-images.githubusercontent.com/90279551/144968851-441e4456-f437-4798-a184-2f2cbe5fc541.png)
 ![image](https://user-images.githubusercontent.com/90279551/144968865-ab169aa3-505f-4885-8623-d7adaeb098c8.png)
 
-
+It is observable that ECG and Blood pressure do not seem to hold any correlation. In all intervals of obersved blood pressure, all ECG levels hover around the same values and no indicating factor of a correlation can be oberved. With no initial correlation between the two, finding a correlation in heart disease patients and non-heart disease patients is difficult
 
 ### **Which single attribute can be observed as a leading factor towards heart disease?**
 ![Screenshot (39)](https://user-images.githubusercontent.com/90279551/144966110-64f930f6-a980-49a6-8996-4835d3e5b30b.png)
