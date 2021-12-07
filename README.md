@@ -94,10 +94,6 @@ This graph shows a much higher proportion of people with heart disease having ei
 
 
 ## **Which single attribute can be observed as a leading factor towards heart disease?**
-
-
-
-## **Which single attribute can be observed as a leading factor towards heart disease?**
 ![Screenshot (39)](https://user-images.githubusercontent.com/90279551/144966110-64f930f6-a980-49a6-8996-4835d3e5b30b.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/90279551/144966133-2e4caed4-86f1-44e4-af45-d1af4f6c36f0.png)
 
