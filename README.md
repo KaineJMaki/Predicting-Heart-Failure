@@ -4,7 +4,7 @@ Project Group 28's exploration of heart-related issues.
 
 >Gavin Bosman - github.com/gavinbos
 
->Thomas Chiarello - github.com/BoiledSpagett
+>Thomas Chiarello - github.com/Mini-Devv
 
 >Kaine Makimoto - github.com/KaineJMaki
 
